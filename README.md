@@ -1,4 +1,4 @@
-# 微信支付 for Nodejs
+# 微信支付(支持企业支付) for Nodejs
 
 ## 初始化
 ```js

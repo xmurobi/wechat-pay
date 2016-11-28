@@ -1,5 +1,5 @@
 {
-  "name": "wechat-pay",
+  "name": "wechat-pay2",
   "version": "0.2.4",
   "description": "wechat payment api for document v3.3.5",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "repository":
   {
     "type": "git",
-    "url": "git://github.com/supersheep/wechat-pay.git"
+    "url": "git://github.com/xmurobi/wechat-pay.git"
   },
   "keywords": [
     "wechat",
@@ -20,9 +20,9 @@
   "license": "ISC",
   "bugs":
   {
-    "url": "https://github.com/supersheep/wechat-pay/issues"
+    "url": "https://github.com/xmurobi/wechat-pay/issues"
   },
-  "homepage": "https://github.com/supersheep/wechat-pay",
+  "homepage": "https://github.com/xmurobi/wechat-pay",
   "dependencies":
   {
     "md5": "^2.0.0",
